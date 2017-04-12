@@ -1,0 +1,12 @@
+CNRS ISC-PIF
+David CHavalarias
+
+This Script computes the attention of the different communities for the candidate.
+
+1) Add you API key in  librarie/politoscope_api_keysTemplate.php
+2) Rename librarie/politoscope_api_keysTemplate.php into librarie/politoscope_api_keys.php
+2) Launch php politicoscope_candidate_attention.php
+
+All the analysis is generated in the folder candidatesAttention
+
+LICENCE : GNU aGPLV3
